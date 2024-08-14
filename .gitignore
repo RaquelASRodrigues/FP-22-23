@@ -1,0 +1,5 @@
+
+__pycache__/
+.pytest_cache/
+Projeto1/tests/
+Projeto2/tests/
